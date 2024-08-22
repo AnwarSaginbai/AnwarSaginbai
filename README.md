@@ -19,4 +19,4 @@
 
 ## 🔗 Links
 
-[![Telegram](https://github.com/user-attachments/assets/5eef92a9-4cac-469d-a9fb-dd300c64489e)](@geistundglaube)
+![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)
