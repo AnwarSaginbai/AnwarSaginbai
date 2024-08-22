@@ -17,6 +17,5 @@
 3. [По морфологии арабского языка](https://github.com/AnwarSaginbai/aboutme/blob/main/notes/sarf.pdf).
 
 
-## 🔗 Links
+## 🔗 Контакты
 
-![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)
