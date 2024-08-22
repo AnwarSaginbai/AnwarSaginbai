@@ -18,5 +18,5 @@
 
 
 ## 🔗 Links
-[![Telegram] [Telegram_logo](https://github.com/user-attachments/assets/e9df06b7-5bfc-4f4f-b26f-0a8179777786)
+[Telegram_logo](https://github.com/user-attachments/assets/e9df06b7-5bfc-4f4f-b26f-0a8179777786)
 ()](https://katherineoelsner.com/)
